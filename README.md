@@ -7,7 +7,7 @@ Description:
 
 Make sure you have the following software installed:
 -Microsoft Excel
--MikTex
+-MikTeX
 
 Google Drive Download Link:
 https://drive.google.com/drive/folders/1hYNt9x21vXqNPmMveF_kTcXWwIBv4VbS?usp=sharing
