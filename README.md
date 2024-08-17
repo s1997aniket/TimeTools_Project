@@ -1,8 +1,8 @@
-# TimeTools_Project
-A simple time management tool using MS Excel
+# ProductivityTools_Project
+A simple productivity management tool using MS Excel
 
 Description:
--A simple time management tool, using a system of connected Excel sheets.
+-A simple productivity management tool, using a system of connected Excel sheets.
 -This can be used to keep track of multiple projects.
 
 Make sure you have the following software installed:
