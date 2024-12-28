@@ -1,8 +1,8 @@
 # ProductivityTools_Project
-A simple productivity management tool using MS Excel
+A simple project management and note taking tool using MS Excel
 
 Description:
--A simple productivity management tool, using a system of connected Excel sheets.
+-A simple project management tool, using a system of connected Excel Workbooks.
 -This can be used to keep track of multiple projects.
 
 Make sure you have the following software installed:
